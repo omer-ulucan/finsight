@@ -9,3 +9,5 @@
 !core/
 !db/
 !.env.example
+!app/
+!models/
