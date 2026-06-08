@@ -5,3 +5,4 @@
 !**/*.py
 !README.md
 !requirements.txt
+!docker-compose.yml
