@@ -7,4 +7,5 @@
 !requirements.txt
 !docker-compose.yml
 !core/
-!db
+!db/
+!.env.example
