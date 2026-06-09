@@ -11,3 +11,7 @@
 !.env.example
 !app/
 !models/
+!alembic/
+!alembic/versions
+!script.py.mako
+!alembic.ini
