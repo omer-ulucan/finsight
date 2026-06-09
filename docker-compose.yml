@@ -77,3 +77,9 @@ services:
     depends_on:
       postgresql:
         condition: service_healthy
+
+
+volumes:
+  rabbitmq_data:
+  redis_data:
+  postgres_data:
